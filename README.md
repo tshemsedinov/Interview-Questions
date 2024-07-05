@@ -7,6 +7,6 @@
 > [RU](https://github.com/tshemsedinov/Interview-Questions/tree/ru).
 
 - JavaScript
-- [Асинхронное программирование](https://github.com/tshemsedinov/Async-Interview-Questions)
-- [Платформа Node.js](https://github.com/tshemsedinov/NodeJS-Interview-Questions)
+- [Асинхронное программирование](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ru)
+- [Платформа Node.js](https://github.com/tshemsedinov/NodeJS-Interview-Questionstree/ru)
 - Паттерны и принципы
