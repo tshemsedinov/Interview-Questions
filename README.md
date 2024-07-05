@@ -8,5 +8,5 @@
 
 - JavaScript
 - [Асинхронное программирование](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ru)
-- [Платформа Node.js](https://github.com/tshemsedinov/NodeJS-Interview-Questionstree/ru)
+- [Платформа Node.js](https://github.com/tshemsedinov/NodeJS-Interview-Questionstree/tree/ru)
 - Паттерны и принципы
